@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "476327715927",
+    "project_id": "moghtereb",
+    "storage_bucket": "moghtereb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476327715927:android:4a9a7bd3069ec1d3e7ef12",
+        "android_client_info": {
+          "package_name": "com.example.furnitures"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476327715927-kesbajgbbldunc2gbgkm79i4fi683dte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1cvKW_MjLH6Cv8KvhJr80gOq7IGbTA9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476327715927-kesbajgbbldunc2gbgkm79i4fi683dte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
